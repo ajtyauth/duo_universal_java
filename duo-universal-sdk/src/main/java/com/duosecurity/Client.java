@@ -121,7 +121,7 @@ public class Client {
     private String userAgent;
 
     private static final String[] DEFAULT_CA_CERTS = {
-      "sha256/bhtNIHLiNK/TTu/PnN6z62EjW1YWXV2JyVxPaeqoDaM=",
+      "sha256/C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=",
       //C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA
       "sha256/I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o=",
       //C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
